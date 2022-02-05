@@ -1,0 +1,1 @@
+First theme, mainly targetting Dart syntax highlighting, did not colorize the sidebar and what not.
